@@ -1,0 +1,9 @@
+CPU registers, instruction format ad encoding, addressing modes, instruction set,
+instruction   types,
+instruction   decoding   and   execution,
+basic   Instruction
+cycle,
+Reduced
+Instruction   Set  Computer  (RISC), Complex   Instruction
+Set   Computer
+(CISC), RISC-V instructions; X86 Instruction set.
